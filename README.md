@@ -1,5 +1,6 @@
 # Prova
-É um repositório onde refiz as questões da minha prova do dia 23 de Abril de 2024
+É um repositório onde refiz as questões da minha prova de LPOO,
+chamada carinhosamente de Java, do dia 23 de Abril de 2024
 
 ## Questões
 
