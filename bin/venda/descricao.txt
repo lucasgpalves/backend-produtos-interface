@@ -1,9 +1,3 @@
-# Prova
-É um repositório onde refiz as questões da minha prova de LPOO,
-chamada carinhosamente de Java, do dia 23 de Abril de 2024
-
-## Questões
-
 Você está desenvolvendo um programa para registrar as
 vendas de uma loja. Cada venda é associada a um produto
 e sua quantidade vendida. Implemente um programa Java 
