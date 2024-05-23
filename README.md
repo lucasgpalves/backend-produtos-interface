@@ -1,4 +1,5 @@
 # Prova
+Simulação em prompt de um sistema de adição de produtos em Java <br>
 É um repositório onde refiz as questões da minha prova de LPOO,
 chamada carinhosamente de Java, do dia 23 de Abril de 2024
 
